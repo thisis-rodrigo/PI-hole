@@ -1,0 +1,7 @@
+# PI-hole blocklist padrão (formato domains)
+# Um domínio por linha
+ads.example.com
+tracker.example.net
+analytics.example.org
+adserver.example.io
+metrics.example.co
