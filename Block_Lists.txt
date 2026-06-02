@@ -15,3 +15,5 @@ https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Miningpages.txt
 
 https://github.com/blocklistproject/Lists/blob/master/scam.txt
 
+https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
+
