@@ -15,4 +15,3 @@ https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Miningpages.txt
 
 https://github.com/blocklistproject/Lists/blob/master/scam.txt
 
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
